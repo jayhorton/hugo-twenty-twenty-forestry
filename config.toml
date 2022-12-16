@@ -1,4 +1,4 @@
-baseURL = "/hugo-twenty-twenty-forestry"
+baseURL = "/"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
