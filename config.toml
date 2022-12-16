@@ -1,4 +1,4 @@
-baseURL = "/twenty-twenty-hugo"
+baseURL = "/hugo-twenty-twenty-forestry"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
